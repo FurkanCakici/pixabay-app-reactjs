@@ -5,7 +5,7 @@
 ## ![Link](http://g.recordit.co/aWWpGqVrQ0.gif)
 
 
-CANLI : https://furkancakici.github.io/pixabay-api-app/
+CANLI : https://furkancakici.github.io/pixabay-app-reactjs/
 
 ### NELER KULLANDIM/ÖĞRENDİM
 
