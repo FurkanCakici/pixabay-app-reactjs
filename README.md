@@ -3,7 +3,7 @@
 ## TELİFSİZ RESİM PLATFORMU OLAN PİXABAY APİ KULLANILARAK YAPILMIŞTIR. 
 
 
-CANLI : https://furkancakici.github.io/countries-app-reactjs/
+CANLI : https://furkancakici.github.io/pixabay-api-app/
 
 ### NELER KULLANDIM/ÖĞRENDİM
 
