@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pixabay-api-app/static/css/main.2b2bef18.chunk.css",
-    "main.js": "/pixabay-api-app/static/js/main.edc71bd9.chunk.js",
-    "main.js.map": "/pixabay-api-app/static/js/main.edc71bd9.chunk.js.map",
-    "runtime-main.js": "/pixabay-api-app/static/js/runtime-main.52566847.js",
-    "runtime-main.js.map": "/pixabay-api-app/static/js/runtime-main.52566847.js.map",
-    "static/js/2.18034f68.chunk.js": "/pixabay-api-app/static/js/2.18034f68.chunk.js",
-    "static/js/2.18034f68.chunk.js.map": "/pixabay-api-app/static/js/2.18034f68.chunk.js.map",
-    "index.html": "/pixabay-api-app/index.html",
-    "precache-manifest.1e49d5c058cb5d334215aed4a73ae635.js": "/pixabay-api-app/precache-manifest.1e49d5c058cb5d334215aed4a73ae635.js",
-    "service-worker.js": "/pixabay-api-app/service-worker.js",
-    "static/css/main.2b2bef18.chunk.css.map": "/pixabay-api-app/static/css/main.2b2bef18.chunk.css.map",
-    "static/js/2.18034f68.chunk.js.LICENSE.txt": "/pixabay-api-app/static/js/2.18034f68.chunk.js.LICENSE.txt"
+    "main.css": "/pixabay-app-reactjs/static/css/main.2b2bef18.chunk.css",
+    "main.js": "/pixabay-app-reactjs/static/js/main.726f3016.chunk.js",
+    "main.js.map": "/pixabay-app-reactjs/static/js/main.726f3016.chunk.js.map",
+    "runtime-main.js": "/pixabay-app-reactjs/static/js/runtime-main.c06dce0e.js",
+    "runtime-main.js.map": "/pixabay-app-reactjs/static/js/runtime-main.c06dce0e.js.map",
+    "static/js/2.18034f68.chunk.js": "/pixabay-app-reactjs/static/js/2.18034f68.chunk.js",
+    "static/js/2.18034f68.chunk.js.map": "/pixabay-app-reactjs/static/js/2.18034f68.chunk.js.map",
+    "index.html": "/pixabay-app-reactjs/index.html",
+    "precache-manifest.3df15f1641384ac04625d5d43233c955.js": "/pixabay-app-reactjs/precache-manifest.3df15f1641384ac04625d5d43233c955.js",
+    "service-worker.js": "/pixabay-app-reactjs/service-worker.js",
+    "static/css/main.2b2bef18.chunk.css.map": "/pixabay-app-reactjs/static/css/main.2b2bef18.chunk.css.map",
+    "static/js/2.18034f68.chunk.js.LICENSE.txt": "/pixabay-app-reactjs/static/js/2.18034f68.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.52566847.js",
+    "static/js/runtime-main.c06dce0e.js",
     "static/js/2.18034f68.chunk.js",
     "static/css/main.2b2bef18.chunk.css",
-    "static/js/main.edc71bd9.chunk.js"
+    "static/js/main.726f3016.chunk.js"
   ]
 }
