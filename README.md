@@ -2,7 +2,7 @@
 
 ## TELİFSİZ RESİM PLATFORMU OLAN PİXABAY APİ KULLANILARAK YAPILMIŞTIR. 
 
-## ![Link](http://g.recordit.co/aWWpGqVrQ0.gif)
+## ![Link](http://g.recordit.co/6r9EQpYrjO.gif)
 
 
 CANLI : https://furkancakici.github.io/pixabay-app-reactjs/
