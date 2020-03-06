@@ -2,6 +2,8 @@
 
 ## TELİFSİZ RESİM PLATFORMU OLAN PİXABAY APİ KULLANILARAK YAPILMIŞTIR. 
 
+## ![Link](http://g.recordit.co/aWWpGqVrQ0.gif)
+
 
 CANLI : https://furkancakici.github.io/pixabay-api-app/
 
